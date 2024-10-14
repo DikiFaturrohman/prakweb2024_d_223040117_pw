@@ -49,7 +49,7 @@ if (isset($_POST["submit"])) {
                 <input type="text" name="gambar" id="gambar" required value="<?= $buku["gambar"];?> ">
             </li>
             <li>
-                <button type="submit" name="submit">Edit Buku</button>
+                <button type="submit" name="submit">Ubah Buku</button>
             </li>
         </ul>
     </form>
